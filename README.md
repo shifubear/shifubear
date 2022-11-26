@@ -4,8 +4,7 @@ Thanks for stopping by my Github page! My name is Shion Fukuzawa and I'm a secon
 
 - 😄 Pronouns: He/Him
 
-- 👯 I’m actively searching for internship opportunities for Summer 2022 
-- 🔭 I’m currently doing research related to convex polyhedral distance functions and quantum amplitude estimation algorithms.
+- 🔭 I’m currently doing research on VQE algorithms, exploring ansatz expressibility and optimizers.
 - 🚧 I'm currently working on a dynamic-dcel library in JavaScript, as well as creating a bot to play shogi. 
 
 
